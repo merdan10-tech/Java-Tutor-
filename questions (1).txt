@@ -1,0 +1,40 @@
+What is an Enum in Java? A collection of objects' A data type to define a set of constant values' A dynamic array' A method for sorting arrays
+Which keyword is used to define an Enum in Java? enum' class' int' enumclass
+How do you access the values of an Enum in Java? Using the loop' By indexing like an array' By using the dot notation' With the EnumValue method
+In Java arrays have a fixed size. Which statement allows you to find the length of an array? array.size()' array.length' array.getSize()' array.count()
+Which data type can an array in Java hold? Any data type' Integers and Strings only' Objects of the same data type' Characters and Booleans only
+What is the purpose of an ArrayList in Java? To store key-value pairs' To hold a fixed number of elements' To provide dynamic resizing of arrays' To define constants
+Which class should you import to use ArrayList in Java? java.util.Array' java.util.Collection' java.util.List' java.util.ArrayList
+How do you add an element to the end of an ArrayList? addLast()' append()' addToEnd()' add()
+Which method is used to remove an element at a specific index from an ArrayList? removeAt()' delete()' remove()' erase()
+What happens when you try to access an index that is out of bounds in an array or ArrayList in Java? It returns a null value' It throws an IndexOutOfBoundsException' It returns the last element' It returns -1
+What is an array in Java? A data structure that can store a fixed-size sequence of elements of the same data type.' A special data type that enables for a variable to be a set of predefined constants.' A special integer type that can store words.' A String that can be changed when is needed.
+You have 7 days in a week starting at Monday. What number represents Friday? 2' 4' 6' 5
+You have an array {0, 2, 4, 6, 8, 9} how big is it? 0' 5' 6' 9
+How do you create an arraylist named names? ArrayList<names> String = ArrayList<String>()' ArrayList<String> names = ArrayList<>()' ArrayList<names> String = new ArrayList<String>()' ArrayList<String> names = new ArrayList<>()
+How do you create an enum list? enum followed by your title followed by curly brackets with your options inside.' Your title followed by enum followed by empty parenthesis.' enum followed by your title followed by empty curly brackets.' Your title followed by enum followed by parenthesis with your options inside.
+How would you add 10 to an array list of numbers? add(10)' numbers.add(10)' numbers.append(10)' numbers.addtoend(10)
+How do you remove all elements of an array list? remove()' clear()' exit()' append()
+What elements can an ArrayList hold? String/wrapper class' int' char' double
+Can an enum extend another enum? Yes' Maybe' Kinda' No
+Why would you use an array over a list? Faster speeds' When you need more features' When you want overhead for additional structures' When you want more complex syntax
+Enumerations are classes? True' False' They are subclasses' They contain classes
+What is the starting index of an array? -1' 2' 0' -3
+What are the identifiers TOMATO, CHICKEN, and PRAWN in the code below known as: enum Soup { TOMATO, CHICKEN, PRAWN }? Static constants' Enumeration constants' Class constants' Type constants
+What are enumeration constants implicitly declared as? Public static' Static final' Final static' Public final
+What declares an array of integers named numbers?' int number;' int [] number;' int new number [];' int number = int [];
+What is the output of the following code fragment: int [] odd = {1, 3, 5, 7, 9, 11}; System.out.println(odd[0] + odd[3]);? 6' 1' 7' 8
+How do you declare an array in java? int [] arr;' int arr;' Array<int> arr;' int {} arr;
+How do you access an element in an array in java? By using the element’s value' By using the element’s index' By using the element’s key' By using the element’s label
+What method is used to copy one array into another? copy()' clone()' System.arraycopy()' Arrays.copy()
+The length of an array be changed after its creation in Java? True' False' Only if necessary' If you use the resize method
+What is the difference between length and length() in Java? length is a method for arrays, while length() is a method for strings.' length is a method for strings, while length() is a property for arrays.' length is a property for arrays, while length() is a method for strings.' Both length and length() are methods for arrays and strings respectively.
+How do you declare a two-dimensional array in Java with 3 rows and 4 columns? int[3,4] array;' int[][] array = new int[3][4];' int[3][4] array = new int[];' int[4][3] array = new int[][];
+Which of the following statements about arrays in Java is correct? Arrays in Java can have a dynamic size.' Arrays can store elements of different data types.' Arrays in Java can only store objects, not primitive data types.' Arrays can have negative indices.
+What is the main advantage of using enums over constants in Java? Enums can have methods and fields, while constants cannot.' Constants can be used in switch statements, while enums cannot.' Enums are stored more efficiently in memory.' Enums can only hold integer values, while constants can hold any data type.
+In Java, what is the purpose of the values() method in enums? It returns an array containing the values of the enum.' It returns the number of values in the enum.' It returns the first value of the enum.' It returns a comma-separated string of enum values.
+How can you access all the values of an enum in Java? Using a loop' By using the values() method' By accessing them directly using dot notation' By using the enumerate() method
+Which of the following statements about enums in Java is true? Enums can be instantiated using the new keyword.' Enums cannot have constructors.' Enums cannot have methods.' Enums can be of any data type.
+What is the default initial value for elements in a numeric array in Java? 0' 1' -1' null
+Which keyword is used to define an enum constant with a specific value in Java? value' constant' final' equals
+What is an enum constant in Java? A variable that can hold multiple values' A fixed-size data structure' A special data type used to define a collection of constants' An element of an array
